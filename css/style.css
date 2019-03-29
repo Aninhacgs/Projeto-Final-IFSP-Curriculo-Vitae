@@ -1,0 +1,35 @@
+
+.nome{
+ text-align: center;
+ padding-top:-10px;
+ padding-left:170px;
+ color: #120a8f;
+}
+
+.paragrafo,.social{
+	text-align: center;
+	font-family: arial;
+	font-size: 14px;
+	color: black;
+	padding-top: 2px;
+	
+}
+
+.imagem{
+	padding-top:37px;
+	padding-left:40px;
+	float: left;
+}
+
+.lista{
+	padding-top: -90px;
+	text-align:left;
+	padding-left:212px;
+	padding-right: 12px;
+	font-family:arial;
+	float:center;
+}
+
+.lista li{
+	font-weight: bold;
+}
